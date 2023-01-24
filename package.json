@@ -1,0 +1,24 @@
+{
+  "name": "twitter-hatemeter",
+  "version": "1.0.0",
+  "description": "Hate measurer of a twit's comments",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianAgui/twitter-hatemeter.git"
+  },
+  "keywords": [
+    "twitter",
+    "hatemeter",
+    "AI",
+    "Artificial Inteligence",
+    "midudev-cohere-2023"
+  ],
+  "author": {
+    "name": "Adrián Aguirre",
+    "email": "adrian.agui9@gmail.com",
+    "url": "https://adrianagui.dev/"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/AdrianAgui/twitter-hatemeter#readme"
+}
